@@ -1,4 +1,4 @@
-# react-boilerplateTo get started:
+# Mminimal react-boilerplate to get started:
 
 - npm/yarn install
 
